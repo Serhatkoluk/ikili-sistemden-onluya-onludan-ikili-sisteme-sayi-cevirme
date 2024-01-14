@@ -1,0 +1,7 @@
+C:\Users\Serhat\Desktop\PT ODEV\sayı cevirme\bin\Debug\sayı cevirme.exe.config
+C:\Users\Serhat\Desktop\PT ODEV\sayı cevirme\bin\Debug\sayı cevirme.exe
+C:\Users\Serhat\Desktop\PT ODEV\sayı cevirme\bin\Debug\sayı cevirme.pdb
+C:\Users\Serhat\Desktop\PT ODEV\sayı cevirme\obj\Debug\sayı cevirme.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\PT ODEV\sayı cevirme\obj\Debug\sayı cevirme.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\PT ODEV\sayı cevirme\obj\Debug\sayı cevirme.exe
+C:\Users\Serhat\Desktop\PT ODEV\sayı cevirme\obj\Debug\sayı cevirme.pdb
